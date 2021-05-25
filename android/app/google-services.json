@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "281134770476",
+    "firebase_url": "https://authauth-e1ecf-default-rtdb.firebaseio.com",
+    "project_id": "authauth-e1ecf",
+    "storage_bucket": "authauth-e1ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281134770476:android:b319c41dd061c406236489",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281134770476-b2bg3ll2p0rd3h17l7rv0lkp11vutl38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialapp",
+            "certificate_hash": "f903dab6f8f8cb677f2c46139b8c52e07a3f5d46"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaFvdOeNSM19NzHl6uurdiGHxtiUY5as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281134770476-ke0ri7172p3vak5m8umn01qbpb6fmi3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

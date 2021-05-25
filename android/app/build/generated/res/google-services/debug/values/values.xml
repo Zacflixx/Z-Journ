@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://authauth-e1ecf-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">281134770476</string>
+    <string name="google_api_key" translatable="false">AIzaSyBzaFvdOeNSM19NzHl6uurdiGHxtiUY5as</string>
+    <string name="google_app_id" translatable="false">1:281134770476:android:b319c41dd061c406236489</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBzaFvdOeNSM19NzHl6uurdiGHxtiUY5as</string>
+    <string name="google_storage_bucket" translatable="false">authauth-e1ecf.appspot.com</string>
+    <string name="project_id" translatable="false">authauth-e1ecf</string>
+</resources>
